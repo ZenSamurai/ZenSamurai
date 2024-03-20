@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZenSamurai
 - 👀 I’m interested in entry level jobs and apprenticeships in Software Development/Engineering and Web3/Blockchain
-- 🌱 I’m currently learning Ruby, JavaScript and Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything Python, Web3 and cybersecurity. 
 - 📫 How to reach me [...](https://www.linkedin.com/in/martin-milev/)
 
 <!---
